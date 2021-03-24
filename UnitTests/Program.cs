@@ -2,7 +2,7 @@
 
 namespace UnitTests
 {
-    class Program
+    public class Program
     {
         public static decimal Balance = 2034;
 
